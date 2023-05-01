@@ -1,5 +1,5 @@
 # QM
-# In order to use the xyzgjf script, the .xyz file should be formatted as such:
+In order to use the xyzgjf script, the .xyz file should be formatted as such:
 
 Dir_subdir_filename.xyz 
 Dir_filename.xyz
